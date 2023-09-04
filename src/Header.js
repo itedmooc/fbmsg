@@ -19,7 +19,7 @@ function Header() {
                         <li class="nav-item"><a class="nav-link" href="#step">ขั้นตอนการทำสื่อ</a></li>
                         <li class="nav-item"><a class="nav-link" href="#calendar">กำหนดการบันทึก</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">ติดต่อสอบถาม</a></li>
-                        <li class="nav-item"><a class="nav-link bround" href="https://forms.gle/7VquUFn2Wi7MajM86">ส่งหัวข้อรายวิชา</a></li>
+                        <li class="nav-item"><a class="nav-link bround" href="https://forms.gle/sitH91WHRMiN1z4n7">ส่งหัวข้อรายวิชา</a></li>
                     </ul>
                 </div>
             </div>
