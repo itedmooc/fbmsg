@@ -606,6 +606,11 @@ progress {
   height: auto;
 }
 
+.img-fluid-sm {
+  max-width: 70%;
+  height: auto;
+}
+
 .img-nav {
   max-width: 70%;
 }
@@ -11038,6 +11043,9 @@ body {
     color: rgba(255, 255, 255, 0.5);
   }
   #mainNav .nav-link {
+    /* text-align: center;
+    height: 50px;
+    width: auto; */
     transition: none;
     padding: 1.5rem 1.5rem 1.25rem;
     color: rgba(255, 255, 255, 1);

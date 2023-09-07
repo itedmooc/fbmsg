@@ -2,7 +2,7 @@
 import React from "react";
 import { FacebookProvider, CustomChat } from "react-facebook";
 
-function fbLive() {
+function FBLive() {
   return (
     <FacebookProvider appId="680742153917072" chatSupport>
       <CustomChat pageId="111835310434029" minimized={true} />
@@ -10,4 +10,4 @@ function fbLive() {
   );
 }
 
-export default fbLive;
+export default FBLive;

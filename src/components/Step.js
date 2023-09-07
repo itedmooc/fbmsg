@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function Step() {
   return (
@@ -129,6 +130,12 @@ function Step() {
                 </div>
               </div>
             </div>
+          </div>
+          <br></br><br></br>
+          <div class="text-center mb-4 mb-lg-12 align-items-center">
+            <Link to="/StepProcess">
+              <button class="text-black fw-semibold btn bround">คำอธิบายการเตรียมการก่อนการผลิตสื่อวีดิทัศน์</button>
+            </Link>
           </div>
           <br></br> <br></br> <br></br>
           {/* <!-- Project One Row--> */}

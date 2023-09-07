@@ -1,13 +1,34 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+// import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Home from './components/Home';
+import {
+  createBrowserRouter,
+  RouterProvider,
+} from "react-router-dom";
+import StepProcess from './components/StepProcess';
+// import ScrollToTop from './components/ScrollToTop';
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <Home />
+
+  },
+  {
+    path: "StepProcess",
+    element: <StepProcess />
+
+  }
+])
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
 
