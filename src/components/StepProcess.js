@@ -67,7 +67,7 @@ function StepProcess() {
               <button class="text-black fw-semibold btn bround"><a class="nav-link" href="https://forms.gle/sitH91WHRMiN1z4n7">กรอกแบบฟอร์มหัวข้อในการบันทึกสื่อวีดิทัศน์ (Google Form)</a></button>
           </div>
           <div class="text-center mb-4 mb-lg-12 align-items-center">
-              <button class="text-black fw-semibold btn bround"><a class="nav-link" href="https://forms.gle/sitH91WHRMiN1z4n7">กรอกแบบฟอร์มคำถาม (แบบปรนัย) <br></br>เพื่อจัดทำแบบทดสอบก่อนเรียน และหลังเรียน (Google Form)</a></button>
+              <button class="text-black fw-semibold btn bround"><a class="nav-link" href="https://forms.gle/BGUZtB5HsnfSJVy7A">กรอกแบบฟอร์มคำถาม (แบบปรนัย) <br></br>เพื่อจัดทำแบบทดสอบก่อนเรียน และหลังเรียน (Google Form)</a></button>
           </div>
         </div>
       </section>
