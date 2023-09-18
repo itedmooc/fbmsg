@@ -73,7 +73,7 @@ function StepProcess() {
             <div class="col-lg-5 bg-white card py-4 h-100">
               <h4 class="textpad text-center text-black"><a href="https://docs.google.com/document/d/1qJQUd-o8-_HRoHOL-KB3yWFCi1reXj59/edit?usp=sharing&ouid=117648227180513084001&rtpof=true&sd=true" target="noopener">แบบฟอร์มคำถามปรนัย</a></h4>
               <div class="text-center mb-4 mb-lg-12 align-items-center">
-              <button class="textwhiteup fw-semibold btn broundBlack"><a class="nav-link" href="https://forms.gle/BGUZtB5HsnfSJVy7A" target="noopener">อัพโหลดไฟล์เอกสาร <br></br>แบบทดสอบก่อนเรียนและหลังเรียน <br></br>(Google Form)</a></button>
+              <button class="textwhiteup fw-semibold btn broundBlack"><a class="nav-link" href="https://forms.gle/BGUZtB5HsnfSJVy7A" target="noopener">อัปโหลดไฟล์เอกสาร <br></br>แบบทดสอบก่อนเรียนและหลังเรียน <br></br>(Google Form)</a></button>
               </div>
             </div>
           </div>
