@@ -21,7 +21,7 @@ function Header() {
                         <li class="nav-item"><a class="nav-link" href="#calendar">กำหนดการบันทึก</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">ติดต่อสอบถาม</a></li>
                         {/* <li class="nav-item"><Link class="nav-link" to="StepProcess">ขั้นตอนการทำงาน</Link></li> */}
-                        <li class="nav-item"><a class="nav-link bround" href="https://forms.gle/sitH91WHRMiN1z4n7">ส่งหัวข้อรายวิชา</a></li>
+                        <li class="nav-item"><a class="nav-link bround" href="https://forms.gle/sitH91WHRMiN1z4n7" target="noopener">ส่งหัวข้อรายวิชา</a></li>
                     </ul>
                 </div>
             </div>
