@@ -11351,7 +11351,7 @@ body {
 .icon-position{
   position: fixed;
   bottom: 40px;
-  right: 75px;
+  right: 100px;
   z-index: 20;
 }
 .icon-style{
