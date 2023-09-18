@@ -8,11 +8,13 @@ import Contact from "./Contact";
 import Footer from "./Footer";
 import FacebookProvider from "./FBLive";
 import ScrollToTop from './ScrollToTop';
+import ScrollToTopBtn from './ScrollToTopBtn';
 
 function Home() {
   return (
     <>
       <ScrollToTop />
+      <ScrollToTopBtn />
       <Header />
       <Project />
       <About />

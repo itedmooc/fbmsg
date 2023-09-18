@@ -11351,11 +11351,11 @@ body {
 .icon-position{
   position: fixed;
   bottom: 40px;
-  right: 25px;
+  right: 75px;
   z-index: 20;
 }
 .icon-style{
-  background-color: #551B54;
+  background-color: #000033;
   border: 2px solid #fff;
   border-radius: 50%;
   height: 50px;
@@ -11368,8 +11368,8 @@ body {
 .icon-style:hover{
   animation: none;
   background: #fff;
-  color: #551B54;
-  border: 2px solid #551B54;
+  color: #000033;
+  border: 2px solid #000033;
 }
 @keyframes movebtn {
   0%{

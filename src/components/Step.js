@@ -134,7 +134,7 @@ function Step() {
           <br></br><br></br>
           <div class="text-center mb-4 mb-lg-12 align-items-center">
             <Link to="/StepProcess">
-              <button class="textblackup fw-semibold btn bround">คำอธิบายการเตรียมการก่อนการผลิตสื่อวีดิทัศน์</button>
+              <button class="textblackup fw-semibold btn bround">คลิกเพื่อดู <br></br>การเตรียมการก่อนการผลิตสื่อวีดิทัศน์</button>
             </Link>
           </div>
           <br></br> <br></br> <br></br>
