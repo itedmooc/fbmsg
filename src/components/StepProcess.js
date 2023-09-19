@@ -8,6 +8,7 @@ import Header2 from "./Header2";
 function StepProcess() {
   return (
     <>
+      <ScrollToTopBtn />
       <ScrollToTop />
       <Header2 />
       {/* <!-- Projects--> */}
