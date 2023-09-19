@@ -4,6 +4,7 @@ import Footer from "./Footer";
 import FacebookProvider from "./FBLive";
 import ScrollToTop from "./ScrollToTop";
 import Header2 from "./Header2";
+import ScrollToTopBtn from "./ScrollToTopBtn";
 
 function StepProcess() {
   return (
