@@ -9,6 +9,7 @@ import Footer from "./Footer";
 import FacebookProvider from "./FBLive";
 import ScrollToTop from './ScrollToTop';
 import ScrollToTopBtn from './ScrollToTopBtn';
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 function Home() {
   return (
@@ -23,6 +24,7 @@ function Home() {
       <Contact />
       <Footer />
       <FacebookProvider />
+      <SpeedInsights />
     </>
   )
 }
